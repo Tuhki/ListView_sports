@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sports_list</string>
+
+    <!-- Pour interface 1 -->
+    <string name="i1start">Start</string>
+
+    <!-- Pour interface 2 -->
+    <string name="i2civil">Civilité</string>
+    <string name="i2mr">Monsieur</string>
+    <string name="i2mme">Madame</string>
+    <string name="i2nom">Nom</string>
+    <string name="i2prénom">Prénom</string>
+    <string name="i2naissance">Date de naissance (en chiffres)</string>
+    <string name="i2mail">Email</string>
+    <string name="i2adresse">Adresse postale</string>
+    <string name="i2commentaire">Ajouter un commentaire...</string>
+    <string name="i2valider">Valider</string>
+    <string name="i2jour">Jour (ex: 01)</string>
+    <string name="i2mois">Mois (ex: 09)</string>
+    <string name="i2an">Année (ex: 2006)</string>
+
+    <!-- Pour interface 3 -->
+    <string name="i3sports">Sports</string>
+    <string name="i3accueil">Accueil</string>
+</resources>
